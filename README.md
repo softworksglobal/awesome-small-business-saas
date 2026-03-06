@@ -1,122 +1,396 @@
-# awesome-small-business-saas
-# Awesome Small Business SaaS  
-### Software Platforms Built by SoftWorks Global
+# 100+ SaaS Platforms for Small Businesses
+### Built by SoftWorks Global
 
-A curated directory of specialized SaaS applications designed to help real businesses operate more efficiently.
+A curated ecosystem of specialized SaaS applications designed to help real businesses manage operations, scheduling, customers, and workflows.
 
-These platforms are part of the **SoftWorks Global SaaS ecosystem**, a collection of industry-focused tools built to simplify scheduling, operations, inventory management, and workflow automation.
+SoftWorks Global builds focused industry-specific software so businesses can run more efficiently without complex enterprise systems.
 
-Main Website  
-https://softworksglobal.com/
+Main website  
+https://softworksglobal.com
 
 ---
 
-# Healthcare Software
+# Healthcare & Medical Software
 
 ### Spinesly
 https://spinesly.com  
-Chiropractic practice management software designed to help clinics manage appointments, patient records, treatments, and operational workflows.
+Chiropractic practice management software for patient scheduling, treatment tracking, and clinic operations.
 
 ### Veterinaryly
 https://veterinaryly.com  
-Veterinary clinic management platform for appointment scheduling, patient history tracking, and veterinary practice operations.
+Veterinary clinic management software for appointments, patient records, and veterinary practice workflows.
+
+### GoCliny
+https://gocliny.com  
+General practice management platform for healthcare professionals and clinics.
+
+### Masthera
+https://masthera.com  
+Massage therapy scheduling and client management platform.
 
 ---
 
 # Animal & Pet Care Software
 
-### Pawsyly
-https://pawsyly.com  
-Pet sitting business management software for managing pet owners, pets, booking schedules, and service tracking.
-
 ### Animlly
 https://animlly.com  
-Animal shelter management software designed to track animals, manage adoption workflows, and coordinate shelter operations.
+Animal shelter management software designed for adoption tracking and shelter operations.
+
+### Pawsyly
+https://pawsyly.com  
+Pet sitting business scheduling and pet management software.
+
+### Furlyly
+https://furlyly.com  
+Pet grooming service scheduling and client management software.
+
+### GoPetel
+https://gopetel.com  
+Pet hotel and pet boarding management software.
 
 ---
 
-# Retail & Store Management Software
+# Food & Hospitality Software
 
 ### Bakeryly
 https://bakeryly.com  
-Bakery management software that helps bakeries manage production schedules, staff, inventory, and order fulfillment.
+Bakery business management platform for scheduling production and managing orders.
 
-### Bookstorely
-https://bookstorely.com  
-Bookstore inventory and point-of-sale management platform designed to help bookstores track books, inventory, and sales.
-
-### Bicyclly
-https://bicyclly.com  
-Bicycle shop management platform designed for repair workflow management, service scheduling, and inventory tracking.
-
----
-
-# Food Service & Hospitality Software
+### Coffehq
+https://coffehq.com  
+Coffee shop management software for daily operations and service tracking.
 
 ### Caterngly
 https://caterngly.com  
-Catering business management platform designed to coordinate events, manage catering schedules, and track client bookings.
+Catering business management platform for managing events and catering schedules.
+
+### Dineoly
+https://dineoly.com  
+Restaurant management platform for service operations and customer management.
+
+### Grubzly
+https://grubzly.com  
+Food truck business management software for scheduling events and managing service operations.
+
+### Cremyly
+https://cremyly.com  
+Ice cream shop management software for inventory, scheduling, and operations.
+
+### Beeryly
+https://beeryly.com  
+Brewery management platform for production workflows and business operations.
+
+### Corkyly
+https://corkyly.com  
+Winery management software designed for vineyard operations and wine production management.
 
 ---
 
-# Beauty & Personal Care Software
+# Retail & Store Software
 
-### Salnly
-https://salnly.com  
-Beauty salon and spa management software that helps manage appointments, staff scheduling, and client management.
+### Bookstorely
+https://bookstorely.com  
+Bookstore inventory and sales management software.
+
+### Werzly
+https://werzly.com  
+Clothing store management software for inventory and retail operations.
+
+### Hosyly
+https://hosyly.com  
+Furniture store inventory and retail management platform.
+
+### Hardzly
+https://hardzly.com  
+Hardware store management software for inventory tracking and operations.
+
+### Jewlyly
+https://jewlyly.com  
+Jewelry store inventory and customer management platform.
+
+### Blomsly
+https://blomsly.com  
+Flower shop management software for orders, inventory, and customer management.
+
+### GoToyvio
+https://gotoyvio.com  
+Toy store inventory management and retail operations platform.
 
 ---
 
-# Home & Service Business Software
+# Service Business Software
 
 ### Wipyly
 https://wipyly.com  
-Cleaning service management software designed for scheduling cleaning crews, managing customers, and organizing service operations.
+Cleaning service scheduling and customer management platform.
 
 ### Yardyly
 https://yardyly.com  
-Landscaping business management platform that helps landscaping companies manage clients, jobs, and service schedules.
+Landscaping service management software for scheduling and operations.
+
+### Plummerly
+https://plummerly.com  
+Plumbing service scheduling and job management software.
+
+### Splshly
+https://splshly.com  
+Pool service management platform for scheduling and service operations.
+
+### Voltzly
+https://voltzly.com  
+Electrical services management software for job scheduling and client tracking.
+
+### Coolyly
+https://coolyly.com  
+HVAC service management platform for field technicians and service operations.
+
+### Roofyly
+https://roofyly.com  
+Roofing contractor job scheduling and project management platform.
+
+### Maidufy
+https://maidufy.com  
+Maid service scheduling and operations management software.
 
 ---
 
-# Additional Industry Platforms
+# Education & Training Software
 
-SoftWorks Global continues to expand its SaaS ecosystem with additional specialized platforms designed for operational management across many industries including:
+### Skolyly
+https://skolyly.com  
+K-12 education management platform for school administration.
 
-- service businesses
-- retail operations
-- appointment-driven industries
-- logistics and workflow management
-- professional services
+### GoSkoly
+https://goskoly.com  
+School management software for administrative workflows.
+
+### Tutoryly
+https://tutoryly.com  
+Tutoring business scheduling and student management platform.
+
+### Totsyly
+https://totsyly.com  
+Childcare and daycare center management software.
+
+### Carexly
+https://carexly.com  
+Daycare center operations management platform.
 
 ---
 
-# Full SaaS Directory
+# Business Operations Software
 
-The complete and continuously updated list of all SaaS platforms built by SoftWorks Global can be found here:
+### Rellyly
+https://rellyly.com  
+Customer relationship management software.
 
-https://softworksglobal.com/
+### Helpyly
+https://helpyly.com  
+Customer support help desk software.
+
+### Servyly
+https://servyly.com  
+IT help desk and service desk management platform.
+
+### Temsly
+https://temsly.com  
+Team management and collaboration platform.
+
+### Hiryly
+https://hiryly.com  
+Human resources management software.
+
+### Payexly
+https://payexly.com  
+Payroll processing and employee compensation management software.
+
+### Absencely
+https://absencely.com  
+Employee absence and leave management platform.
+
+### Schedily
+https://schedily.com  
+Scheduling platform for managing appointments and workforce scheduling.
+
+### GoTimio
+https://gotimio.com  
+Timesheet and time tracking platform for businesses.
+
+### Costyly
+https://costyly.com  
+Expense tracking software for business spending.
+
+### Billoly
+https://billoly.com  
+Invoice creation and billing management platform.
+
+### Listoly
+https://listoly.com  
+Inventory management software for tracking products and stock.
+
+### Ownitly
+https://ownitly.com  
+Asset management platform for tracking equipment and resources.
+
+---
+
+# Project & Productivity Software
+
+### GoProjy
+https://goprojy.com  
+Project portfolio management platform.
+
+### Workyly
+https://workyly.com  
+Productivity and workflow organization software.
+
+### Itemyly
+https://itemyly.com  
+Product management platform for product development workflows.
+
+### GoReqly
+https://goreqly.com  
+Requirements management software for product teams.
+
+---
+
+# Marketing & Growth Software
+
+### Digmaly
+https://digmaly.com  
+Digital marketing agency management software.
+
+### Postyly
+https://postyly.com  
+Social media marketing management platform.
+
+### GoSeofy
+https://goseofy.com  
+SEO management and search optimization software.
+
+---
+
+# Professional Services Software
+
+### Casioly
+https://casioly.com  
+Legal case management software.
+
+### TryRealy
+https://tryrealy.com  
+Real estate agency management platform.
+
+### Recioly
+https://recioly.com  
+Recruiting software for hiring and applicant management.
+
+### Rateoly
+https://rateoly.com  
+Appraisal management platform.
+
+### Evaloly
+https://evaloly.com  
+Assessment and evaluation platform.
+
+---
+
+# Agriculture & Farm Management
+
+### Feldsly
+https://feldsly.com  
+Crop farm management software.
+
+### Barnyly
+https://barnyly.com  
+Animal farm management platform.
+
+---
+
+# Creative & Lifestyle Software
+
+### Artioly
+https://artioly.com  
+Art gallery management platform.
+
+### Movioly
+https://movioly.com  
+Dance studio management software.
+
+### Dojoyly
+https://dojoyly.com  
+Martial arts studio management platform.
+
+### Yoglyly
+https://yoglyly.com  
+Yoga studio scheduling and membership management software.
+
+### TryPixly
+https://trypixly.com  
+Photography studio management software.
+
+### GoTailo
+https://gotailo.com  
+Tailor shop management platform.
+
+---
+
+# Travel & Tourism Software
+
+### Travexly
+https://travexly.com  
+Travel agency management software.
+
+### Touryly
+https://touryly.com  
+Tour operator management platform.
+
+---
+
+# Nonprofit & Community Platforms
+
+### Almosly
+https://almosly.com  
+Charity and philanthropy management platform.
+
+### Givioly
+https://givioly.com  
+Fundraising and donor management software.
+
+### Parshly
+https://parshly.com  
+Church management platform.
+
+### Clubyly
+https://clubyly.com  
+Membership management software.
+
+---
+
+# Personal & Household Software
+
+### Savioly
+https://savioly.com  
+Personal finance management platform.
+
+### Growyly
+https://growyly.com  
+Self improvement and personal growth tracking software.
+
+### Famioly
+https://famioly.com  
+Household management software for organizing family tasks and responsibilities.
+
+---
+
+# Explore the Entire Ecosystem
+
+Complete SaaS directory  
+https://softworksglobal.com
 
 ---
 
 # About SoftWorks Global
 
-SoftWorks Global builds focused software products designed to solve real operational problems for businesses.
+SoftWorks Global develops specialized SaaS platforms designed for real businesses across many industries.
 
-Founded in 2009, the company develops practical software platforms that prioritize:
-
-- operational visibility
-- scheduling and workflow automation
-- practical business management tools
-- industry-specific functionality
-
-Learn more:  
-https://softworksglobal.com/
-
----
-
-# Contributing
-
-This directory documents the SaaS ecosystem built by SoftWorks Global.
-
-New platforms and updates are added as the ecosystem grows.
+Founded in 2009, the company focuses on building practical software that simplifies operations, scheduling, workflow management, and business administration.
